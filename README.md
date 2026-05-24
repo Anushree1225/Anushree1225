@@ -55,12 +55,6 @@ to dream mapping, simulations, and interactive educational worlds.
 
 ---
 
-## 📊 GitHub Stats
-
-![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree1225&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anushree1225&theme=tokyonight)
