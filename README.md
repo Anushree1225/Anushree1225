@@ -52,14 +52,6 @@ I work across **AI/ML, cybersecurity, blockchain, and software development**, wi
 
 ## 🌟 Featured Projects
 
-### 🌊 [Ocean Depth Explorer](https://github.com/Anushree1225/ocean-depth-explorer)
-
-An interactive web experience that lets users explore the different **depth zones of the ocean**, along with their environments and marine life.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS
-
----
-
 ### 🔐 [Email Phishing Analyzer](https://github.com/Anushree1225/email-phishing-analyzer)
 
 A phishing analysis platform that examines **email headers, URLs, content, screenshots, and other indicators** to identify suspicious messages and provide risk-based analysis.
@@ -81,6 +73,14 @@ A platform designed to improve **awareness, accessibility, and support around wo
 An AI-based support agent project exploring automated assistance and intelligent response generation.
 
 **Tech:** Python · AI
+
+---
+
+### 🌊 [Ocean Depth Explorer](https://github.com/Anushree1225/ocean-depth-explorer)
+
+An interactive web experience that lets users explore the different **depth zones of the ocean**, along with their environments and marine life.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS
 
 ---
 
@@ -110,15 +110,6 @@ Creating interfaces and experiences that make complex information easier to unde
 * Smart Contract Development
 * Full-Stack Application Development
 * AI-powered Applications
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushree1225&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree1225&layout=compact&hide_border=true" height="170"/>
-</p>
 
 ---
 
