@@ -1,72 +1,141 @@
 # Hi, I'm Anushree 👋
 
-### Computer Science Student • Creative Technologist • Builder of Curious Things
+### Computer Science Undergraduate | AI/ML • Cybersecurity • Blockchain
 
-I enjoy building software that solves real-world problems and creating interactive experiences that make complex systems easier to understand and explore.
+I'm a Computer Science student who enjoys turning ideas into working software and exploring how intelligent, secure, and decentralized systems can solve real-world problems.
 
-From cybersecurity projects and AI models to immersive simulations and speculative ideas, I love learning by building.
-
----
-
-## 🌌 Currently Exploring
-
-- 🌊 Building an interactive **Ocean Depth Explorer** *(work in progress)*
-- 🌐 Designing **The Internet as a City**
-- 🧠 Researching **Dream Visualization Systems**
-- 🏙️ Conceptualizing **Future Earth 3000**
-- 🔐 Exploring **Cybersecurity and Secure Application Development**
-- 🚀 Learning more about **AI, IoT, and Creative Technologies**
+I work across **AI/ML, cybersecurity, blockchain, and software development**, with a growing interest in building practical systems that combine these technologies.
 
 ---
 
-## ⚒️ Tech Stack
+## 🚀 Currently Building
+
+* 🔗 **AdaptChain** — An AI-driven adaptive risk assessment system combining **Machine Learning and Blockchain**, with smart contracts designed around risk-based decision making and human review.
+
+* 🧪 **AI/ML-Based Diabetes Report Analysis** — A grounded AI pipeline that extracts information from medical reports, performs **ML-based risk analysis**, identifies abnormal values, and generates patient-friendly explanations using an LLM.
+
+* 🌊 **Ocean Depth Explorer** — An interactive web experience for exploring ocean depth zones and marine ecosystems, built with **Next.js, TypeScript, and Tailwind CSS**.
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-### 🌐 Development
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+`Python` `Java` `JavaScript` `TypeScript` `SQL` `Solidity`
 
-### 🧠 Interests
-- Cybersecurity
-- Artificial Intelligence
-- Interactive Simulations
-- Creative Coding
-- IoT Systems
-- Digital Worldbuilding
-- Experimental UI/UX
+### 🤖 AI / Machine Learning
 
----
+`Scikit-learn` `TensorFlow` `PyTorch` `Pandas` `NumPy`
 
-## 🚧 Projects
+### 🌐 Web & Backend
 
-| Project | Description |
-|----------|-------------|
-| 🔐 Email Phishing Analyzer | Detects phishing indicators from EML files, PDFs, screenshots, and raw text |
-| 🌊 Ocean Depth Explorer | Interactive exploration of Earth's ocean layers and ecosystems *(WIP)* |
-| 👩‍⚖️ HerRightsApp | Platform focused on awareness, accessibility, and support for women's rights |
+`React` `Next.js` `Node.js` `Express.js` `Flask` `Tailwind CSS`
+
+### 🔗 Blockchain
+
+`Solidity` `Web3.py` `Ganache` `Remix` `IPFS`
+
+### 🧰 Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `MySQL`
+
+### 🔐 Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Cybersecurity
+* Blockchain & Decentralized Systems
+* Secure Application Development
+* Full-Stack Development
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anushree1225&theme=tokyonight)
+### 🌊 [Ocean Depth Explorer](https://github.com/Anushree1225/ocean-depth-explorer)
 
----
+An interactive web experience that lets users explore the different **depth zones of the ocean**, along with their environments and marine life.
 
-## 🌍 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/anushree-verma-322302243
-- 📫 Email: vermaanushree@gmail.com
+**Tech:** Next.js · TypeScript · Tailwind CSS
 
 ---
 
-> I love building things that people don't just use —
-> they explore, learn from, and remember.
+### 🔐 [Email Phishing Analyzer](https://github.com/Anushree1225/email-phishing-analyzer)
+
+A phishing analysis platform that examines **email headers, URLs, content, screenshots, and other indicators** to identify suspicious messages and provide risk-based analysis.
+
+**Tech:** JavaScript · Web Development · Cybersecurity
+
+---
+
+### 👩‍⚖️ [HerRightsApp](https://github.com/Anushree1225/HerRightsApp)
+
+A platform designed to improve **awareness, accessibility, and support around women's rights and related resources**.
+
+**Tech:** Java · Android Development
+
+---
+
+### 🤖 [Aster Row AI Support Agent](https://github.com/Anushree1225/aster-row-ai-support-agent)
+
+An AI-based support agent project exploring automated assistance and intelligent response generation.
+
+**Tech:** Python · AI
+
+---
+
+## 🔬 Areas I'm Exploring
+
+I'm particularly interested in projects that bring together:
+
+**AI + Security**
+Building intelligent systems for detection, analysis, and threat prevention.
+
+**AI + Blockchain**
+Exploring how machine learning can work alongside decentralized systems and smart contracts.
+
+**AI for Real-World Applications**
+Developing practical ML systems that transform unstructured data into useful insights.
+
+**Interactive Software**
+Creating interfaces and experiences that make complex information easier to understand and explore.
+
+---
+
+## 📚 What I'm Learning
+
+* Advanced Machine Learning
+* Deep Learning & Computer Vision
+* Cybersecurity & Threat Detection
+* Smart Contract Development
+* Full-Stack Application Development
+* AI-powered Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushree1225&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree1225&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 A Little About Me
+
+I learn best by **building** — experimenting with an idea, understanding what breaks, and improving it until it works.
+
+I'm currently exploring the intersection of **AI, cybersecurity, blockchain, and software engineering**, while building projects that let me apply what I learn beyond the classroom.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/anushree-verma-322302243/)
+* 📫 **Email:** [vermaanushree@gmail.com](mailto:vermaanushree@gmail.com)
+* 💻 [GitHub](https://github.com/Anushree1225)
+
+---
+
+> *Build. Experiment. Learn. Repeat.* 🚀
